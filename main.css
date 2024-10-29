@@ -15,8 +15,8 @@ h1, h2, h3 {
 	font-family: 'Rakkas', cursive;
 }
 
-aside {
-	
+aside {float: left;
+		width: 30%;
 }
 
 footer {
@@ -32,15 +32,18 @@ img {
 }
 
 main {
-
+	float: left;
+	width: 50%;
 }
 
 nav {
-
+	float: left;
+	width: 10%;
 }
 
 #copyright {
 	font-size: 80%;
+	width: 20%;
 }
 
 #main-container {
